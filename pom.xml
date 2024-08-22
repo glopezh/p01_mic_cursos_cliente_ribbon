@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cjava</groupId>
-	<artifactId>p01_mic_cursos_cliente_ribbon</artifactId>
+	<artifactId>expert</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>p01_mic_cursos_cliente_ribbon</name>
 	<description>Demo project for Spring Boot</description>
