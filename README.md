@@ -34,6 +34,10 @@ H2
 ![H2](images/cursos-h2.png)
 ![ribbon-h2](images/ribbon-h2.png)
 
+Se tiene una instancia en el puerto 8082 y 8073
+![ribbon-h2-primera](images/instancia%202%20de%20h2%20en%20eureka.png)
+![ribbon-h2-segunda](images/instancia%202%20de%20h2.png)
+
 MYSQL
 ![MYSQLCURSO](images/cursos-sql.png)
 ![mysql](images/ribbon-sql.png)
